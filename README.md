@@ -1,2 +1,2 @@
-##Landmark Matching and B-spline Implicit Neural Representations for Diffusion-Weighted Imaging Distortion Correction
+Demo for Landmark Matching and B-spline Implicit Neural Representations for Diffusion-Weighted Imaging Distortion Correction
 
