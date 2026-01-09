@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Output
+output/
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Weights (download separately - too large for GitHub)
+weights/*.pth
+weights/*.ckpt
